@@ -1,4 +1,5 @@
 # Dracula analize Color of Mars 
 red <- read.csv("color_spreadsheet.csv")
-plot "read"
+mercury <- planets[1,]
+plot(read)
 #Changes again
