@@ -1,2 +1,2 @@
-# analize color mars 
-red <- read.csv(color_spreadsheet.txt)
+# analize Color of Mars 
+red <- read.csv("color_spreadsheet.csv")
